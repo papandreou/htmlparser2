@@ -1,5 +1,5 @@
 {
-  "name": "htmlparser2",
+  "name": "htmlparser2-papandreou",
   "description": "Fast & forgiving HTML/XML/RSS parser",
   "version": "3.9.1",
   "author": "Felix Boehm <me@feedic.com>",
